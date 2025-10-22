@@ -70,7 +70,7 @@ img {
 
 button {
     flex-direction: row;
-    width: 300px;
+    width: 220px;
     height: 55px;
     font-weight: bold;
     font-size: 20px;
@@ -125,4 +125,9 @@ footer {
 footer a button:hover {
     color: black;
     transform: scale(1.05);
+
+}
+
+.fb {
+    width: 300px;
 }
