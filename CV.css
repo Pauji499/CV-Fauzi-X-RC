@@ -127,3 +127,7 @@ footer a button:hover {
     transform: scale(1.05);
 
 }
+
+.contact {
+    margin: 15px;
+}
